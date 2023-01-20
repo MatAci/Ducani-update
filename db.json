@@ -1,0 +1,152 @@
+{
+  "columns": [
+    {
+      "name": "ID",
+      "type": "NUMBER"
+    },
+    {
+      "name": "DUCAN_ID",
+      "type": "NUMBER"
+    },
+    {
+      "name": "NAZIV",
+      "type": "VARCHAR2"
+    },
+    {
+      "name": "ADRESA",
+      "type": "VARCHAR2"
+    },
+    {
+      "name": "OPIS",
+      "type": "VARCHAR2"
+    },
+    {
+      "name": "GPSSIRINA",
+      "type": "NUMBER"
+    },
+    {
+      "name": "GPSDUZINA",
+      "type": "NUMBER"
+    },
+    {
+      "name": "TIMESTAMP",
+      "type": "NUMBER"
+    },
+    {
+      "name": "THUMB_ID",
+      "type": "NUMBER"
+    }
+  ],
+  "items": [
+    {
+      "id": 98885714,
+      "ducan_id": 192,
+      "naziv": "Prodavaona Ćunski",
+      "adresa": "Ćunski 42, Ćunski",
+      "gpssirina": 44.58883954866539,
+      "gpsduzina": 14.409859478473663,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885679,
+      "ducan_id": 192,
+      "naziv": "Market Priko",
+      "adresa": "Priko 46, Mali Lošinj",
+      "gpssirina": 44.53333410916247,
+      "gpsduzina": 14.465161263942717,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 100776826,
+      "ducan_id": 192,
+      "naziv": "Market Saita",
+      "adresa": "Susak 311, Susak",
+      "gpssirina": 44.51210329763084,
+      "gpsduzina": 14.309614598751068,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885669,
+      "ducan_id": 192,
+      "naziv": "Gourmet Boutique",
+      "adresa": "Vladimira Gortana 16, Mali Lošinj",
+      "gpssirina": 44.5332576294041,
+      "gpsduzina": 14.468508660793304,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885674,
+      "ducan_id": 192,
+      "naziv": "Market Škverić",
+      "adresa": "Lošinjskih brodograditelja 14, Mali Lošinj",
+      "gpssirina": 44.53558256917587,
+      "gpsduzina": 14.466470181941984,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885709,
+      "ducan_id": 192,
+      "naziv": "Market Veli Lošinj",
+      "adresa": "Vladimira Nazorpa 25, Veli Lošinj",
+      "gpssirina": "44.51924866793082",
+      "gpsduzina": "14.50110286474228",
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885684,
+      "ducan_id": 192,
+      "naziv": "Market Zagazine",
+      "adresa": "Trg Zagazinjine 1, Mali Lošinj",
+      "gpssirina": 44.5352651897764,
+      "gpsduzina": 14.47108894586563,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885689,
+      "ducan_id": 192,
+      "naziv": "Market Centar",
+      "adresa": "Braće Vidulić 20, Mali Lošinj",
+      "gpssirina": 44.53133413045303,
+      "gpsduzina": 14.46988731622696,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885699,
+      "ducan_id": 192,
+      "naziv": "Market Nerezine",
+      "adresa": "Nerezinskih pomoraca 22a, Nerezine",
+      "gpssirina": 44.66000685350922,
+      "gpsduzina": 14.397448897361754,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 101993901,
+      "ducan_id": 192,
+      "naziv": "Caffe Bar Momento",
+      "adresa": "Dražica 5, Mali Lošinj",
+      "gpssirina": 44.5248822969891,
+      "gpsduzina": 14.470136761665342,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    },
+    {
+      "id": 98885694,
+      "ducan_id": 192,
+      "naziv": "Maxi Market",
+      "adresa": "Dražica 5, Mali Lošinj",
+      "gpssirina": 44.5248822969891,
+      "gpsduzina": 14.470136761665342,
+      "timestamp": 3893227,
+      "thumb_id": 192001
+    }
+  ]
+}

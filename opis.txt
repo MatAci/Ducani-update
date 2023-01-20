@@ -1,0 +1,14 @@
+pocetna glavna login stranica je index.html
+
+zatim ovisno dal smo user ili admin 
+
+ako smo user idemo na user.html i u naslov traci su  nam stranice user.html i o_nama_user.html
+
+ako smo admin idemo na main.html i u naslov traci su nam stranice main.html i o_nama.html
+
+kada se stisne button artikli u oba slucaja idemo na stranicu artikli.html
+
+
+app js radi sve za admin i za main.html stranicu 
+
+dok za usera sve radi login.html

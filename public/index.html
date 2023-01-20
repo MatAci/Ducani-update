@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="login.css" />
+  </head>
+
+  <body>
+    <a class="form form--login framed">
+      <input
+        type="username"
+        placeholder="Username"
+        class="input input--top username"
+      />
+      <input type="password" placeholder="Password" class="input password" />
+      <button class="input input--submit log_user">Log in</button>
+    </a>
+
+    <div class="fullscreen-bg"></div>
+
+    <div class="alert alert-red hidden">
+      <button class="exit-modal-btn exit-red">&times;</button>
+      <strong>Error!</strong>
+    </div>
+
+    <div class="alert alert-yellow hidden">
+      <button class="exit-modal-btn exit-yellow">&times;</button>
+      <strong class="p"> Warning!</strong>
+    </div>
+
+    <div class="alert alert-green hidden">
+      <button class="exit-modal-btn exit-green">&times;</button>
+      <strong>Success!</strong>
+    </div>
+    <script src="login.js"></script>
+  </body>
+</html>
